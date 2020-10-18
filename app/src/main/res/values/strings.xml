@@ -1,0 +1,150 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Parks</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Sight</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Hotels</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="disneyland">
+       Disneyland Park, originally Disneyland, is the first of two theme parks built\n
+        at the Disneyland Resort in Anaheim, California, opened on July 17, 1955\n
+        It is the only theme park designed and built to completion under the direct\n
+        supervision of Walt Disney. It was originally the only attraction on the property;\n
+        its official name was changed to Disneyland Park to distinguish it from the expanding \n
+        complex in the 1990s. It was the first Disney theme park.</string>
+    <string name="griffith">
+        With over 4,210 acres of both natural chaparral-covered terrain and landscaped\n
+        parkland and picnic areas, Griffith Park is the largest municipal park with\n
+        urban wilderness area in the United States. Situated in the eastern Santa \n
+        Monica Mountain range, the Parks elevations range from 384 to 1,625 feet\n
+        above sea level. With an arid climate, the Parks plant communities vary \n
+        from coastal sage scrub, oak and walnut woodlands to riparian vegetation\n
+        with trees in the Parks deep canyons.</string>
+    <string name="zoo">
+        The Los Angeles Zoo was the fourth zoo to serve the city.
+        1885: The City-owned Eastlake Zoo opens in East Los Angeles Park.
+        1912: The Griffith Park Zoo opens (a few miles from the current\n
+        Los Angeles Zoo site) with 15 animals.
+        1915: Colonel William Selig opens his combination movie studio\n
+        and zoo, the Selig Zoo, in Lincoln Park.
+        By 1956, the citizens of Los Angeles realized their city had \n
+        outgrown the small Griffith Park Zoo. </string>
+    <string name="pacific">
+        Pacific Park is an oceanfront amusement park located in Santa\n
+        Monica, California. The park, located on the Santa Monica Pier,\n
+        looks directly out on the Pacific Ocean, in the direction of\n
+        Catalina Island. It is the only amusement park on the West \n
+        Coast of the United States located on a pier and LAs only \n
+        admission-free park.</string>
+
+    <string name="adventure">
+        For little ones who are just getting used to rides—and\n
+        for families who want a bite-sized theme park\n
+        visit Adventure City is an old-fashioned crowd-pleaser,\n
+        with its small rollercoasters, a 1946 carousel and\n
+        the chance to create your own train track design.
+        </string>
+    <string name="raging">
+        Raging Waters Los Angeles is California’s best and\n
+        largest waterpark! This 60-acre waterpark in the\n
+        Los Angeles area has been recognized by USA Today\n
+        as a Top 10 Water Park and is home to more than \n
+        50 world-class rides
+        </string>
+    <string name="knotts">
+        Fun is always in season at Knotts Berry Farm! With dozens of rides,\n
+        roller coasters, attractions in five themed areas, there is\n
+        something for everyone!
+        </string>
+    <string name="traktir">
+        Cuisine: Eastern European
+        </string>
+    <string name="nnaka">
+        Cuisine: Japanese
+        </string>
+    <string name="providence">
+        Cuisine: Seafood restaurant
+        </string>
+    <string name="above">
+        Cuisine: American
+        </string>
+    <string name="premier">
+        Cuisine: Russian
+        </string>
+    <string name="catchla">
+        Cuisine: American
+        </string>
+    <string name="ush">
+    Universal Studios Hollywood is a film studio and theme park in the San Fernando\n
+        Valley area of Los Angeles County, California. About 70% of the studio lies \n
+        within the unincorporated county island known as Universal City while the \n
+        rest lies within the city limits of Los Angeles, California. It is one of \n
+        the oldest and most famous Hollywood film studios still in use. Its official\n
+        marketing headline is The Entertainment Capital of LA.
+        </string>
+    <string name="griffitho">
+       Southern California’s gateway to the cosmos! Visitors can look through telescopes,\n
+        explore exhibits, see live shows in the Samuel Oschin Planetarium, and enjoy\n
+        spectacular views of Los Angeles and the Hollywood Sign.
+        </string>
+    <string name="hollywood">
+        The Hollywood Sign is a memorial sign in the Hollywood Hills in Los Angeles,\n
+        California. It is the word "HOLLYWOOD" written in large white letters.\n
+        The mark was created as an advertisement in 1923, but later became widely\n
+        known as the trademark of the US film industry.
+        </string>
+    <string name="museum">
+        The Los Angeles County Museum of Art is a US art museum located in Los Angeles,\n
+        California. The largest art museum in the western United States, visited\n
+        by over a million people annually. It is included in the hundred most\n
+        visited art museums in the world.
+        </string>
+    <string name="walt">
+       The Walt Disney Concert Hall is Los Angeles newest concert \n
+        venue, home to the Los Angeles Philharmonic Orchestra. Opened October 23, 2003.
+        </string>
+    <string name="natural">
+        Los Angeles County Natural History Museum, eng. The Natural History Museum of \n
+        Los AngelesCounty is located at Exposition Park in Los Angeles, California, USA.
+        </string>
+    <string name="petersen">
+       The Petersen Automotive Museum is located on Wilshire Boulevard along\n
+        Museum Row in the Miracle Mile neighborhood of Los Angeles. One of\n
+        the worlds largest automotive museums, the Petersen Automotive Museum\n
+        is a nonprofit organization specializing in automobile history and \n
+        related educational programs.
+        </string>
+    <string name="ritz">
+       500-600$
+        </string>
+    <string name="beverly">
+       900-1200$
+        </string>
+    <string name="freeland">
+       150-350$
+        </string>
+    <string name="wald">
+       700-1000$
+        </string>
+    <string name="four">
+       600-1200$
+        </string>
+    <string name="jw">
+       200-1000$
+        </string>
+    <string name="wilshire">
+       600-1100$
+        </string>
+</resources>
